@@ -1,0 +1,37 @@
+body{
+    padding: 20px;
+    background-color: crimson;
+    text-align: center;
+}
+p{
+    overflow-wrap: break-word;
+}
+hr{
+    border: none;
+    height: 2px;
+    background-color: black;
+}
+.main-header{
+    background-color: rgb(199, 24, 24);
+    padding: 20px;
+    margin-top: -20px;
+    margin-bottom: -5px;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+.Carmilla{
+    height: 500px;
+    width: 700px;
+    border-radius: 10px;
+
+}
+.carmillacard{
+    padding-top: 5px;
+    background-color: rgb(211, 51, 83);
+    width: 750px;
+    height: 580px;
+    align-items: center;
+    margin: 0 auto;
+    border-radius: 50px;
+
+}
